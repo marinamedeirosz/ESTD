@@ -1,5 +1,5 @@
 Integrantes: Marina Paffer, Matheus Alexandre,Pedro Roberto
-Material utilizado: https://panda.ime.usp.br/pythonds/static/pythonds_pt/03-EDBasicos/toctree.html
+-Material utilizado: https://panda.ime.usp.br/pythonds/static/pythonds_pt/03-EDBasicos/toctree.html
 Foram utilizadas as sessões 3.10 até 3.14
 
 O código está completo, todas os testes foram realizados com sucesso e é composto por 3 arquivos:
