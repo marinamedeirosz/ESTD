@@ -1,6 +1,6 @@
-Integrantes: Marina Paffer, Matheus Alexandre,Pedro Roberto
--Material utilizado: https://panda.ime.usp.br/pythonds/static/pythonds_pt/03-EDBasicos/toctree.html
-Foram utilizadas as sessões 3.10 até 3.14
+<p>Integrantes: Marina Paffer, Matheus Alexandre,Pedro Roberto</p>
+<p>Material utilizado: https://panda.ime.usp.br/pythonds/static/pythonds_pt/03-EDBasicos/toctree.html
+Foram utilizadas as sessões 3.10 até 3.14</p>
 
 O código está completo, todas os testes foram realizados com sucesso e é composto por 3 arquivos:
 -FilaArray.py: Arquivo que reaproveita da estrutura FilaArray apresentada em um dos materiais disponibizados
